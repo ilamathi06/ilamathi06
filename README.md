@@ -9,4 +9,4 @@ ilamathi06/ilamathi06 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poojasundar15)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilamathi06)](https://github.com/anuraghazra/github-readme-stats)
