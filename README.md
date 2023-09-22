@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilamathi06)](https://github.com/anuraghazra/github-readme-stats)
+
+#### ThankYou for visiting to my profile :heart:
+![VisitorCount](https://profile-counter.glitch.me/ilamathi06/count.svg)
