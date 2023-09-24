@@ -9,7 +9,7 @@ ilamathi06/ilamathi06 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-stats.vercel.app/api?username=ilamathi06&show_icons=true&count_private=true&theme=jolly" alt="GitHub Stats for Pooja Sundar" width="500">
+<img src="https://github-readme-stats.vercel.app/api?username=ilamathi06&show_icons=true&count_private=true&theme=jolly" alt="GitHub Stats for Ilamathi Sundar" width="500">
 
 #### ThankYou for visiting to my profile :heart:
 ![VisitorCount](https://profile-counter.glitch.me/ilamathi06/count.svg)
